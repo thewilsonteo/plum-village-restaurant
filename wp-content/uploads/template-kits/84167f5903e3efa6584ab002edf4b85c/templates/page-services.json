@@ -1,0 +1,616 @@
+{
+    "version": "0.4",
+    "title": "Page Services",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "277fe96c",
+            "settings": {
+                "gap": "no",
+                "background_background": "classic",
+                "background_image": {
+                    "id": 85,
+                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-services.jpg"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "padding": {
+                    "unit": "px",
+                    "top": "120",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "structure": "20"
+            },
+            "elements": [
+                {
+                    "id": "103002a9",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 60,
+                        "hide_mobile": "hidden-phone",
+                        "_inline_size_tablet": 40
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "4a9ff771",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40,
+                        "padding": {
+                            "unit": "px",
+                            "top": "60",
+                            "right": "60",
+                            "bottom": "60",
+                            "left": "60",
+                            "isLinked": true
+                        },
+                        "background_background": "classic",
+                        "background_color": "#FFFFFF",
+                        "_inline_size_tablet": 60,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "60",
+                            "right": "40",
+                            "bottom": "60",
+                            "left": "40",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "c16b834",
+                            "settings": {
+                                "title": "Services",
+                                "header_size": "h1",
+                                "align": "right",
+                                "_animation": "fadeIn",
+                                "align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "21a57270",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet consectetur<br \/>adipiscing elit nulla urna urna faucibus<\/p>",
+                                "align": "right",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 100,
+                                "align_mobile": "left"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6cf38ad0",
+            "settings": {
+                "layout": "full_width",
+                "gap": "wider",
+                "structure": "40",
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "10",
+                    "bottom": "0",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4f7f28c9",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 29
+                    },
+                    "elements": [
+                        {
+                            "id": "7efb3031",
+                            "settings": {
+                                "image": {
+                                    "id": 86,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-1-1.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3ed5a7fe",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 40,
+                        "content_position": "center",
+                        "_inline_size_tablet": 70
+                    },
+                    "elements": [
+                        {
+                            "id": "1197f714",
+                            "settings": {
+                                "title": "Events",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "35270bc8",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et aliquet ipsum, ac volutpat ligula. Etiam semper leo arcu, eget porttitor nisi lacinia et.<\/p>",
+                                "text_color": "#333333",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeIn",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3787a4a5",
+                            "settings": {
+                                "editor": "<p>Nunc sagittis ligula mauris, in cursus quam suscipit a. Sed auctor porttitor nulla, in tempus justo aliquet in. In ac porttitor nibh, non efficitur magna. Nam laoreet nec neque et porttitor. In finibus orci sed congue mollis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 300
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "34c0d472",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "397ad67c",
+                            "settings": {
+                                "image": {
+                                    "id": 88,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-1-2.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "500df80d",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "3679143e",
+                            "settings": {
+                                "image": {
+                                    "id": 89,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-1-3.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 500
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "68192b8a",
+            "settings": {
+                "layout": "full_width",
+                "gap": "wider",
+                "structure": "40",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "_title": "Section",
+                "reverse_order_tablet": "reverse-tablet",
+                "reverse_order_mobile": "reverse-mobile",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "10",
+                    "bottom": "0",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "364ded90",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "5c66255",
+                            "settings": {
+                                "image": {
+                                    "id": 90,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-2-1.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "5f8389d5",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "38db9e57",
+                            "settings": {
+                                "image": {
+                                    "id": 91,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-2-2.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "43a81f13",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 40,
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "_inline_size_tablet": 70
+                    },
+                    "elements": [
+                        {
+                            "id": "4d0bcc7",
+                            "settings": {
+                                "title": "Private Dining",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6470b81c",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et aliquet ipsum, ac volutpat ligula. Etiam semper leo arcu, eget porttitor nisi lacinia et.<\/p>",
+                                "text_color": "#333333",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeIn",
+                                "_animation_delay": 300
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "60f72f6b",
+                            "settings": {
+                                "editor": "<p>Nunc sagittis ligula mauris, in cursus quam suscipit a. Sed auctor porttitor nulla, in tempus justo aliquet in. In ac porttitor nibh, non efficitur magna. Nam laoreet nec neque et porttitor. In finibus orci sed congue mollis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7cac0f84",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 30
+                    },
+                    "elements": [
+                        {
+                            "id": "19c0a267",
+                            "settings": {
+                                "image": {
+                                    "id": 92,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-2-3.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 500
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1fafd8c1",
+            "settings": {
+                "layout": "full_width",
+                "gap": "wider",
+                "structure": "40",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "30",
+                    "bottom": "0",
+                    "left": "30",
+                    "isLinked": false
+                },
+                "_title": "Section",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "10",
+                    "bottom": "0",
+                    "left": "10",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "64f09305",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 30
+                    },
+                    "elements": [
+                        {
+                            "id": "69110347",
+                            "settings": {
+                                "image": {
+                                    "id": 93,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-3-1.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "789779d3",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 40,
+                        "content_position": "center",
+                        "_inline_size_tablet": 70
+                    },
+                    "elements": [
+                        {
+                            "id": "1a11e3e6",
+                            "settings": {
+                                "title": "Catering",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4765d8b",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et aliquet ipsum, ac volutpat ligula. Etiam semper leo arcu, eget porttitor nisi lacinia et.<\/p>",
+                                "text_color": "#333333",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeIn",
+                                "_animation_delay": 200
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5b56fc1e",
+                            "settings": {
+                                "editor": "<p>Nunc sagittis ligula mauris, in cursus quam suscipit a. Sed auctor porttitor nulla, in tempus justo aliquet in. In ac porttitor nibh, non efficitur magna. Nam laoreet nec neque et porttitor. In finibus orci sed congue mollis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<\/p>",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 300
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "79596128",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "4d33e582",
+                            "settings": {
+                                "image": {
+                                    "id": 94,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-3-2.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 400
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2a2b6df3",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 20,
+                        "_inline_size_tablet": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "73e8d9e6",
+                            "settings": {
+                                "image": {
+                                    "id": 95,
+                                    "url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-3-3.jpg"
+                                },
+                                "image_size": "full",
+                                "_animation": "fadeIn",
+                                "_animation_delay": 500
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

@@ -1,0 +1,1469 @@
+{
+    "manifest_version": "1.0.10",
+    "title": "Loco Restaurant Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page Home 3",
+            "screenshot": "screenshots\/page-home-3.jpg",
+            "source": "templates\/page-home-3.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-home-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page Home 2",
+            "screenshot": "screenshots\/page-home-2.jpg",
+            "source": "templates\/page-home-2.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-home-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page About",
+            "screenshot": "screenshots\/page-about.jpg",
+            "source": "templates\/page-about.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page Menu",
+            "screenshot": "screenshots\/page-menu.jpg",
+            "source": "templates\/page-menu.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page Chefs",
+            "screenshot": "screenshots\/page-chefs.jpg",
+            "source": "templates\/page-chefs.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-chefs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page Services",
+            "screenshot": "screenshots\/page-services.jpg",
+            "source": "templates\/page-services.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page Contact",
+            "screenshot": "screenshots\/page-contact.jpg",
+            "source": "templates\/page-contact.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page Reservation",
+            "screenshot": "screenshots\/page-reservation.jpg",
+            "source": "templates\/page-reservation.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-reservation\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Page Gallery",
+            "screenshot": "screenshots\/page-gallery.jpg",
+            "source": "templates\/page-gallery.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page Home",
+            "screenshot": "screenshots\/page-home.jpg",
+            "source": "templates\/page-home.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/blog\/template-kit\/page-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/preview.locotheme.com\/kit\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.8",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.8.4",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg-headline-about2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-about2-600x250.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                }
+            ],
+            "filesize": 741153,
+            "dimensions": [
+                1920,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-cafe-3VQE8F5"
+        },
+        {
+            "filename": "gallery-1-7.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 325679,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-chilling-out-classy-lifestyle-reserved-P6K7JNR"
+        },
+        {
+            "filename": "gallery-1-8.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 369107,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waitress-serving-meal-to-business-colleagues-SHNTQFL"
+        },
+        {
+            "filename": "gallery-2-7.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 327236,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-kitchen-life-concept-ZV3C2EJ"
+        },
+        {
+            "filename": "chef-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 510628,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-professional-chef-FD5Y6UR"
+        },
+        {
+            "filename": "about-photo-4.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/about-photo-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                }
+            ],
+            "filesize": 841254,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-woman-eating-in-restaurant-BXT7ACD"
+        },
+        {
+            "filename": "avatar-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/avatar-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 39152,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-studio-headshot-portrait-on-dark-PPPV77P"
+        },
+        {
+            "filename": "avatar-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/avatar-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 41048,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-smiling-man-sitting-on-desk-in-489S3LD"
+        },
+        {
+            "filename": "avatar-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/avatar-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-3.json",
+                    "name": "Page Home 3"
+                },
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 45452,
+            "dimensions": [
+                180,
+                180
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-beautiful-woman-with-curly-hair-GQP4Y9Z"
+        },
+        {
+            "filename": "bg-headline-gallery.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-gallery.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                },
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 528030,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/helsinki-finland-famous-and-popular-place-is-cafe-PPTHCTR"
+        },
+        {
+            "filename": "bg-home-chef2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-home-chef2-600x377.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                }
+            ],
+            "filesize": 79990,
+            "dimensions": [
+                693,
+                435
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-doodle-elements-5YLP3G"
+        },
+        {
+            "filename": "home-chef.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/home-chef.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 771445,
+            "dimensions": [
+                800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-professional-chef-FD5Y6UR"
+        },
+        {
+            "filename": "home-restaurant.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/home-restaurant.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home-2.json",
+                    "name": "Page Home 2"
+                },
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 867578,
+            "dimensions": [
+                1520,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-cafe-3VQE8F5"
+        },
+        {
+            "filename": "bg-headline-about.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-about.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                }
+            ],
+            "filesize": 771193,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-cafe-3VQE8F5"
+        },
+        {
+            "filename": "about-photo-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/about-photo-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                }
+            ],
+            "filesize": 369043,
+            "dimensions": [
+                510,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-shop-bar-counter-cafe-restaurant-P39MBMS"
+        },
+        {
+            "filename": "about-photo-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/about-photo-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                }
+            ],
+            "filesize": 304811,
+            "dimensions": [
+                510,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-chilling-out-classy-lifestyle-reserved-P6K7JNR"
+        },
+        {
+            "filename": "about-photo-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/about-photo-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                }
+            ],
+            "filesize": 325709,
+            "dimensions": [
+                510,
+                510
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-waitress-serving-food-to-customers-in-XEVG2NP"
+        },
+        {
+            "filename": "chef-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 690432,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-woman-with-vegetables-in-the-kitchen-8XMHJA4"
+        },
+        {
+            "filename": "chef-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 570164,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-cook-with-pepper-mill-in-the-kitchen-PVBRXVJ"
+        },
+        {
+            "filename": "chef-4.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 661949,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pretty-young-housewife-in-chefs-hat-4QA8D2T"
+        },
+        {
+            "filename": "chef-5.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page About"
+                },
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 617377,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-baker-leaning-on-counter-at-the-bakery-P6M6F7R"
+        },
+        {
+            "filename": "bg-headline-menu.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-menu.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-menu.json",
+                    "name": "Page Menu"
+                }
+            ],
+            "filesize": 685055,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-italian-pizza-with-tomato-sauce-and-WZGCSUE"
+        },
+        {
+            "filename": "menu-food-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/menu-food-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-menu.json",
+                    "name": "Page Menu"
+                }
+            ],
+            "filesize": 235647,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/delicious-chicken-pilaf-PZWUEBP"
+        },
+        {
+            "filename": "bg-headline-chefs.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-chefs.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 772602,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/tattooed-chef-posing-in-kitchen-N4H8ZLA"
+        },
+        {
+            "filename": "chef-6.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 487029,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-male-chef-posing-PDEM7CR"
+        },
+        {
+            "filename": "chef-7.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 683480,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/closeup-hand-of-chef-baker-in-white-uniform-PUM55KD"
+        },
+        {
+            "filename": "chef-8.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 590001,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-chef-standing-with-arms-crossed-in-kitchen-TKUSNM5"
+        },
+        {
+            "filename": "chef-9.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/chef-9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-chefs.json",
+                    "name": "Page Chefs"
+                }
+            ],
+            "filesize": 635047,
+            "dimensions": [
+                720,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-cook-wearing-chefs-hat-NF4GVYE"
+        },
+        {
+            "filename": "bg-headline-services.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-services.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 862595,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/girlfriends-clink-glasses-with-red-wine-Q8JFBLE"
+        },
+        {
+            "filename": "service-1-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 738631,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/restaurant-chilling-out-classy-lifestyle-reserved-P6K7JNR"
+        },
+        {
+            "filename": "service-1-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 791089,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-cafe-3VQE8F5"
+        },
+        {
+            "filename": "service-1-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 802014,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/helsinki-finland-famous-and-popular-place-is-cafe-PPTHCTR"
+        },
+        {
+            "filename": "service-2-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 679916,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-woman-eating-in-restaurant-BXT7ACD"
+        },
+        {
+            "filename": "service-2-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 815828,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waitress-serving-meal-to-business-colleagues-SHNTQFL"
+        },
+        {
+            "filename": "service-2-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-2-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 684736,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/meeting-place-in-restaurant-PQGQSCU"
+        },
+        {
+            "filename": "service-3-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 790232,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/breakfast-with-catering-buffet-in-restaurant-WKFXY2Z"
+        },
+        {
+            "filename": "service-3-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-3-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 808449,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/food-catering-cuisine-culinary-gourmet-buffet-PWLS495"
+        },
+        {
+            "filename": "service-3-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/service-3-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page Services"
+                }
+            ],
+            "filesize": 726679,
+            "dimensions": [
+                696,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-catering-cuisine-culinary-gourmet-buffet-PX7XSVE"
+        },
+        {
+            "filename": "bg-headline-contact.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-contact.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page Contact"
+                }
+            ],
+            "filesize": 703605,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-reading-menu-9F7PJSZ"
+        },
+        {
+            "filename": "bg-headline-reservation.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-reservation.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-reservation.json",
+                    "name": "Page Reservation"
+                }
+            ],
+            "filesize": 885151,
+            "dimensions": [
+                1920,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elegant-restaurant-table-setting-service-for-PJF2J3K"
+        },
+        {
+            "filename": "gallery-1-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 371138,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/corner-of-modern-luxurious-restaurant-with-wooden-4AVS8GW"
+        },
+        {
+            "filename": "gallery-1-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 389072,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/elegant-restaurant-table-setting-service-for-PJF2J3K"
+        },
+        {
+            "filename": "gallery-1-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 458490,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-cafe-3VQE8F5"
+        },
+        {
+            "filename": "gallery-1-4.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 377323,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/interior-of-large-hall-of-modern-luxurious-X94QZ5R"
+        },
+        {
+            "filename": "gallery-1-5.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 312451,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/meeting-place-in-restaurant-PQGQSCU"
+        },
+        {
+            "filename": "gallery-1-6.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-1-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 372789,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/corner-of-modern-luxurious-restaurant-with-wooden-4AVS8GW"
+        },
+        {
+            "filename": "gallery-2-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 337874,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chef-cooking-juicy-beef-steak-at-restaurant-PQE82YM"
+        },
+        {
+            "filename": "gallery-2-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 267686,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/chef-serving-italian-pasta-in-a-restaurant-PRCCW59"
+        },
+        {
+            "filename": "gallery-2-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 249082,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/chef-with-clipboard-doing-inventory-at-kitchen-PJ5MNSQ"
+        },
+        {
+            "filename": "gallery-2-4.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 313856,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/contemporary-chef-posing-TL5EX3D"
+        },
+        {
+            "filename": "gallery-2-5.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 324562,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creating-menu-at-restaurant-kitchen-RCQDM39"
+        },
+        {
+            "filename": "gallery-2-6.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 297333,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-chef-holding-beef-steak-plate-PTHM3QD"
+        },
+        {
+            "filename": "gallery-2-8.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-2-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 376523,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/three-tasty-pies-cooked-by-cheif-cook-on-the-P439TB7"
+        },
+        {
+            "filename": "gallery-3-1.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 480200,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/delicious-mushrooms-risotto-DA9FNER"
+        },
+        {
+            "filename": "gallery-3-2.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 363881,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/italian-pasta-carbonara-QX7LCFY"
+        },
+        {
+            "filename": "gallery-3-3.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 326181,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/raw-italian-pasta-PL585XR"
+        },
+        {
+            "filename": "gallery-3-4.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 339833,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/tasty-italian-pizza-with-tomato-sauce-and-WZGCSUE"
+        },
+        {
+            "filename": "gallery-3-5.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 293216,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/delicious-seafood-risotto-UM45APF"
+        },
+        {
+            "filename": "gallery-3-6.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 338804,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/italian-food-pasta-food-background-GXK8VUE"
+        },
+        {
+            "filename": "gallery-3-7.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 324505,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/ingredients-for-cooking-italian-pasta-23R6QNA"
+        },
+        {
+            "filename": "gallery-3-8.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/gallery-3-8.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-gallery.json",
+                    "name": "Page Gallery"
+                }
+            ],
+            "filesize": 510303,
+            "dimensions": [
+                540,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/healing-medical-herbs-VF9HJDP"
+        },
+        {
+            "filename": "bg-headline-home.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-headline-home.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 775233,
+            "dimensions": [
+                1920,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/healing-medical-herbs-VF9HJDP"
+        },
+        {
+            "filename": "bg-home-chef.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-home-chef-600x339.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 124625,
+            "dimensions": [
+                1168,
+                660
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/food-doodle-elements-5YLP3G"
+        },
+        {
+            "filename": "bg-gallery.jpg",
+            "thumbnail_url": "https:\/\/preview.locotheme.com\/kit\/wp-content\/uploads\/2020\/02\/bg-gallery-600x219.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page Home"
+                }
+            ],
+            "filesize": 870385,
+            "dimensions": [
+                1920,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-chef-using-whisk-ULG4DJX"
+        }
+    ]
+}
